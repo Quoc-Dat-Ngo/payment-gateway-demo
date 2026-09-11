@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: payment-gateway-demo
+
+stripe:
+  secret: ${STRIPE_SECRET_KEY}
